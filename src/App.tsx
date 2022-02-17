@@ -1,6 +1,5 @@
 import React, { useEffect } from 'react';
 import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
 import './App.css';
 import { SignIn } from './midl/auth/components/google-sign-in';
 import UserSignOut from './midl/auth/components/user-signout';
